@@ -1,0 +1,12 @@
+.row {
+    padding: 10px 20px 20px;
+}
+div {
+    background: #E7D7C9;
+}
+h2, h4 {
+    display: inline;
+}
+h1 {
+    padding-bottom: 10px;
+}

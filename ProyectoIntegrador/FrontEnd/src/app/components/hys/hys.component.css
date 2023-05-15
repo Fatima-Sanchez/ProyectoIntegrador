@@ -1,0 +1,9 @@
+.row {
+    padding: 20px;
+    background-color: #D4B2A7;
+}
+
+.skils {
+    display: flex;
+    justify-content: space-between;
+}

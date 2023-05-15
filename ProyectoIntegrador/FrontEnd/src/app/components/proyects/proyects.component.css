@@ -1,0 +1,14 @@
+.row {
+    padding: 30px;
+    background-color: #E7D7C9;
+}
+
+.contenedor {
+    width: auto;
+    padding: 20px;
+}
+
+.info-proyect, .grafic-proyect {
+    display: inline-block;
+    text-align: justify;
+}
